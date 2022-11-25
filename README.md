@@ -5,7 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Electronics And Telecommunication Engineering From Modern Education Society College Og Enginnering.
+- 💼 &nbsp; Currently learning full stack development.
+- 🎓 &nbsp; Studying Electronics And Telecommunication Engineering From Modern Education Society College Of Enginnering.
 - ✍️ &nbsp; Pursuing Graphic Design and Video Editing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
