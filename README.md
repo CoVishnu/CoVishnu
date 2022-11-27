@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 📚 &nbsp; I’m currently learning front end web development using HTML5, CSS3, JavaScript....
-- 🎓 &nbsp; Studying Electronics And Telecommunication Engineering From Modern Education Society College Of Enginnering.
+- 🎓 &nbsp; Studying Electronics And Telecommunication Engineering From Modern Education Society College Of Engineering.
 - ✍️ &nbsp; Pursuing Graphic Design and Video Editing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
