@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 📚 &nbsp; I’m currently learning front end web development using HTML5, CSS3, JavaScript....
+- 📚 &nbsp; I’m Frontend Web Developer...
 - 🎓 &nbsp; Studying Electronics And Telecommunication Engineering From Modern Education Society College Of Engineering.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
