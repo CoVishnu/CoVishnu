@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 📚 &nbsp; I’m Frontend Web Developer...
-- 🎓 &nbsp; Studying Electronics And Telecommunication Engineering From Modern Education Society College Of Engineering.
+- 🎓 &nbsp; Studying Electronics And Telecommunication Engineering From Modern Education Society Wadia College Of Engineering.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
